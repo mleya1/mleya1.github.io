@@ -1,0 +1,79 @@
+html {
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.ILJS-cool-font {
+    font-family: fantasy;
+    font: bold;
+}
+.ILJS-orange-round {
+    background-color: coral;
+    border-radius: 30px;
+}
+.butt1 {
+    background-color: #d3da18;
+    border: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.ILJS-orange {
+    background-color: coral;
+}
+.ILJS-super-block {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: super-block;
+    animation-duration: 4s;
+  }
+  
+  @keyframes super-block {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  }
+.ILJS-round {
+    border-radius: 30px;
+}
+.ILJS-trans {
+    transform: translate(0px, 10px);
+}
+.ILJS-block {
+    width: 100px;
+    height: 100px;
+}
+.ILJS-black {
+    background-color: black;
+}
+.ILJS-white {
+    background-color: white;
+}
+.ILJS-sector {
+    border: 10px;
+    border-radius: 30px;
+}
+#this-is-a-box {
+    color:white
+}
+.ILJS-shadow {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  }
+* {
+    font-family: 'Roboto', sans-serif;
+}
+#Reload-butt {
+    border: none;
+    background-color: white;
+    color: purple;
+}
+#menu-top {
+    text-align: left;
+}
+#menu-runonce-logo {
+    color: #FF0000;
+}
