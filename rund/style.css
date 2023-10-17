@@ -1,0 +1,6 @@
+html {background-color:rgb(26, 26, 26);color: white;}
+#blink {animation: blink_text 0.5s infinite; }
+@keyframes blink_text{
+50% {color: transparent;}}
+@font-face {font-family:pixel;src:url(fonts/ARCADECLASSIC.TTF)}
+* {font-family:pixel;}
