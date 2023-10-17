@@ -1,0 +1,3 @@
+Do
+msgbox DONT OPEN THIS FILE AGAIN
+Loop

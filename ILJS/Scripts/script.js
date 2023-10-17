@@ -10,7 +10,7 @@ function relf() {
 function email() {
     window.location.href='mailto:aabobusfewdays@gmail.com'
 }
-function runoncehome() {
+function iljshome() {
     window.location.href='index.html'
 }
 function offline() {
